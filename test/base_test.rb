@@ -98,4 +98,3 @@ def preload_tree(class_to_test,num_of_queries)
     loaded.traverse
   end
 end
-
