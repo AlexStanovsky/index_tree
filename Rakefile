@@ -14,6 +14,7 @@ task :test do
   SimpleCov.start do
     add_filter 'test/'
     add_filter 'db/'
+    add_filter 'gemfiles/'
   end
 
   Dir["test/*_test.rb"].each { |f| require f[5..-4] }
