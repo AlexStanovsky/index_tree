@@ -4,4 +4,3 @@ class IndexTree::Railtie < Rails::Railtie
     extend IndexTree::ActsAsIndexedNode
   end
 end
-
