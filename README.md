@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org//Natural-Intelligence/index_tree.svg?branch=master)](https://travis-ci.org/Natural-Intelligence/index\_tree)
+[![Build Status](https://secure.travis-ci.org//AlexStanovsky/index_tree.svg?branch=master)](https://travis-ci.org/AlexStanovsky/index\_tree)
 [![Coverage Status](https://coveralls.io/repos/AlexStanovsky/index_tree/badge.png)](https://coveralls.io/r/AlexStanovsky/index_tree)
 # IndexTree
 
